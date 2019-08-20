@@ -54,6 +54,7 @@ export default {
 .happy-scroll-content {
   border-right: 0 !important;
   border-bottom: 50px solid transparent !important;
+  width: 100%;
 }
 </style>
 

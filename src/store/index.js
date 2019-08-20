@@ -25,10 +25,10 @@ const store = new Vuex.Store({
             },
             messages: [
               {
-                content: 'Hello，这是一个基于Vue + Vuex + Webpack构建的简单chat示例，聊天记录保存在localStorge, 有什么问题可以通过Github Issue问我。',
+                content: 'Hi, 这是一款使用soctet.io及Vue搭建的多人在线聊天室小应用目前正处于完善当中.',
                 date: now
               }, {
-                content: '项目地址: https://github.com/coffcer/vue-chat',
+                content: '项目地址: https://github.com/kkxiaoa/vchat',
                 date: now
               }
             ]
